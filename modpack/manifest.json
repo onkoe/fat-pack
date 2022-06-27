@@ -758,14 +758,6 @@
       }
     },
     {
-      "projectID": 396019,
-      "fileID": 3626457,
-      "required": true,
-      "__meta": {
-        "name": "Save Your Pets"
-      }
-    },
-    {
       "projectID": 399558,
       "fileID": 3712396,
       "required": true,
@@ -901,14 +893,6 @@
       }
     },
     {
-      "projectID": 486778,
-      "fileID": 3555587,
-      "required": true,
-      "__meta": {
-        "name": "Fix Experience Bug (now with FABRIC and FORGE versions)"
-      }
-    },
-    {
       "projectID": 489843,
       "fileID": 3818398,
       "required": true,
@@ -996,22 +980,6 @@
       }
     },
     {
-      "projectID": 537490,
-      "fileID": 3747147,
-      "required": true,
-      "__meta": {
-        "name": "The Wild Update 1.19 [FORGE]"
-      }
-    },
-    {
-      "projectID": 548599,
-      "fileID": 3785792,
-      "required": true,
-      "__meta": {
-        "name": "Hexerei"
-      }
-    },
-    {
       "projectID": 551894,
       "fileID": 3846597,
       "required": true,
@@ -1085,14 +1053,6 @@
       "__meta": {
         "name": "TerraBlender (Forge)",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 570319,
-      "fileID": 3847959,
-      "required": true,
-      "__meta": {
-        "name": "Human Companions"
       }
     },
     {

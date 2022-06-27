@@ -27,3 +27,18 @@ Currently not ported to Forge.
 
 ### [Extra Generators](https://www.curseforge.com/minecraft/mc-mods/extra-generators)
 Currently not ported to Forge.
+
+### [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+Ahh, this one depresses me. Launcher download is currently blocked by author. 
+
+### [Save Your Pets](https://www.curseforge.com/minecraft/mc-mods/save-your-pets/)
+Launcher download locked by author.
+
+### [The Wild Update 1.19](https://www.curseforge.com/minecraft/mc-mods/the-wild-update/)
+Launcher download locked by author. 
+
+### [Hexrei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+Launcher download locked by author. 
+
+### [Human Companions](https://www.curseforge.com/minecraft/mc-mods/human-companions/download/3847959)
+Launcher download locked by author. 
