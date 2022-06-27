@@ -1,5 +1,12 @@
 # Wishlist
-This represents a "wishlist" of future mods that would help the pack. Please check below before submitting a mod request. 
+This represents a "wishlist" of future mods that would help the pack. Please check below before submitting a mod request.
+
+# Won't Add
+
+### [Lucky Blocks](https://www.curseforge.com/minecraft/mc-mods/lucky-block/)
+Replaced with [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes). Launcher download locked by author.
+ 
+## Unavailable
 
 ### [The Aether](https://github.com/Gilded-Games/The-Aether)
 Port in progress. However, builds are currently unstable so they aren't used in this pack (yet). When stable releases appear on CF, please let us know via issues!
@@ -42,3 +49,4 @@ Launcher download locked by author.
 
 ### [Human Companions](https://www.curseforge.com/minecraft/mc-mods/human-companions/download/3847959)
 Launcher download locked by author. 
+

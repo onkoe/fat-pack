@@ -202,6 +202,14 @@
       }
     },
     {
+      "projectID": 233113,
+      "fileID": 3777913,
+      "required": true,
+      "__meta": {
+        "name": "Chance Cubes"
+      }
+    },
+    {
       "projectID": 233255,
       "fileID": 3693931,
       "required": true,
@@ -1061,14 +1069,6 @@
       "required": true,
       "__meta": {
         "name": "Dark Mode Everywhere"
-      }
-    },
-    {
-      "projectID": 576825,
-      "fileID": 3683592,
-      "required": true,
-      "__meta": {
-        "name": "Lucky Block"
       }
     },
     {
