@@ -9,7 +9,7 @@ Just import the ZIP file in Releases to your favorite Minecraft launcher! Person
 A comprehensive mod list [is available here](https://ecloud.global/s/Xb2nqDDTcLtGtEw)! Libraries are currently not included unless requested by authors/contributors.
 
 ## Development
-Onkoe's Fat Pack uses [pax](https://github.com/froehlichA/pax) to dictate mod dependancies and conflicts. Install this for your platform, then follow the [Quickstart guide](https://github.com/froehlichA/pax/wiki/Quickstart)! 
+Onkoe's Fat Pack uses [pax](https://github.com/froehlichA/pax) to dictate mod dependancies and conflicts. Install this for your platform, then follow the [Quickstart guide](https://github.com/froehlichA/pax/wiki/Quickstart)! On Fedora, pax may require the `openssl` and `openssl-devel` packages.
 
 Bug reports, feature requests, and **security flaws** should be reported by GitHub issues. 
 
