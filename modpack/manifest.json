@@ -3,7 +3,7 @@
     "version": "1.18.2",
     "modLoaders": [
       {
-        "id": "forge-40.1.0",
+        "id": "forge-40.1.52",
         "primary": true
       }
     ]
@@ -158,14 +158,6 @@
           309927,
           306770
         ]
-      }
-    },
-    {
-      "projectID": 227639,
-      "fileID": 3828399,
-      "required": true,
-      "__meta": {
-        "name": "The Twilight Forest"
       }
     },
     {
@@ -893,14 +885,6 @@
       }
     },
     {
-      "projectID": 479296,
-      "fileID": 3692447,
-      "required": true,
-      "__meta": {
-        "name": "Nourished Nether"
-      }
-    },
-    {
       "projectID": 489843,
       "fileID": 3818398,
       "required": true,
@@ -993,14 +977,6 @@
       "required": true,
       "__meta": {
         "name": "Better Compatibility Checker"
-      }
-    },
-    {
-      "projectID": 552176,
-      "fileID": 3550750,
-      "required": true,
-      "__meta": {
-        "name": "Amplified Nether"
       }
     },
     {
