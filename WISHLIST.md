@@ -5,7 +5,12 @@ This represents a "wishlist" of future mods that would help the pack. Please che
 
 ### [Lucky Blocks](https://www.curseforge.com/minecraft/mc-mods/lucky-block/)
 Replaced with [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes). Launcher download locked by author.
- 
+
+### [Optifine](https://optifine.net/home)
+Optifine has a [restrictive license](https://optifine.net/copyright) that prevents modpacks from using it without permission. It will never be added unless it removes these conditions from its users. 
+
+In the meantime (and probably forever), some ported Fabric alternatives are now being used. These offer something close to feature parity with Optifine, but without the closed licenses + source code. 
+
 ## Unavailable
 
 ### [The Aether](https://github.com/Gilded-Games/The-Aether)
