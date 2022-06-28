@@ -194,6 +194,15 @@
       }
     },
     {
+      "projectID": 233105,
+      "fileID": 3825684,
+      "required": true,
+      "__meta": {
+        "name": "McJtyLib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 233113,
       "fileID": 3777913,
       "required": true,
@@ -393,6 +402,18 @@
       "__meta": {
         "name": "CreativeCore",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 260912,
+      "fileID": 3711553,
+      "required": true,
+      "__meta": {
+        "name": "XNet",
+        "dependencies": [
+          233105,
+          326041
+        ]
       }
     },
     {
@@ -609,6 +630,18 @@
       "required": true,
       "__meta": {
         "name": "Dungeon Crawl"
+      }
+    },
+    {
+      "projectID": 326041,
+      "fileID": 3825686,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Base",
+        "explicit": false,
+        "dependencies": [
+          233105
+        ]
       }
     },
     {
