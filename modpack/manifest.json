@@ -489,6 +489,14 @@
       }
     },
     {
+      "projectID": 296468,
+      "fileID": 3692638,
+      "required": true,
+      "__meta": {
+        "name": "NoFog"
+      }
+    },
+    {
       "projectID": 296676,
       "fileID": 3756675,
       "required": true,
@@ -1078,6 +1086,25 @@
       "required": true,
       "__meta": {
         "name": "Dark Mode Everywhere"
+      }
+    },
+    {
+      "projectID": 574856,
+      "fileID": 3749094,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium"
+      }
+    },
+    {
+      "projectID": 581495,
+      "fileID": 3821406,
+      "required": true,
+      "__meta": {
+        "name": "Oculus",
+        "dependencies": [
+          574856
+        ]
       }
     },
     {
