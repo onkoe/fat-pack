@@ -139,7 +139,7 @@
     },
     {
       "projectID": 223794,
-      "fileID": 3836504,
+      "fileID": 3859642,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2"
@@ -155,7 +155,7 @@
     },
     {
       "projectID": 224791,
-      "fileID": 3847579,
+      "fileID": 3855328,
       "required": true,
       "__meta": {
         "name": "Blood Magic ",
@@ -195,7 +195,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 3847877,
+      "fileID": 3857049,
       "required": true,
       "__meta": {
         "name": "Chisels & Bits - For Forge"
@@ -220,7 +220,7 @@
     },
     {
       "projectID": 233029,
-      "fileID": 3828965,
+      "fileID": 3856884,
       "required": true,
       "__meta": {
         "name": "Vampirism - Become a vampire!"
@@ -280,7 +280,7 @@
     },
     {
       "projectID": 238794,
-      "fileID": 3829966,
+      "fileID": 3859993,
       "required": true,
       "__meta": {
         "name": "Nomadic Tents"
@@ -341,7 +341,7 @@
     },
     {
       "projectID": 244844,
-      "fileID": 3807667,
+      "fileID": 3860397,
       "required": true,
       "__meta": {
         "name": "ForgeEndertech",
@@ -361,7 +361,7 @@
     },
     {
       "projectID": 245506,
-      "fileID": 3849132,
+      "fileID": 3857623,
       "required": true,
       "__meta": {
         "name": "MineColonies",
@@ -394,7 +394,7 @@
     },
     {
       "projectID": 247921,
-      "fileID": 3833589,
+      "fileID": 3855563,
       "required": true,
       "__meta": {
         "name": "ZeroCore 2",
@@ -419,7 +419,7 @@
     },
     {
       "projectID": 250277,
-      "fileID": 3844161,
+      "fileID": 3855572,
       "required": true,
       "__meta": {
         "name": "Extreme Reactors",
@@ -738,7 +738,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3850606,
+      "fileID": 3861269,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -973,7 +973,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3847904,
+      "fileID": 3856641,
       "required": true,
       "__meta": {
         "name": "GeckoLib",
@@ -1081,7 +1081,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3834590,
+      "fileID": 3854259,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -1098,7 +1098,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3843622,
+      "fileID": 3855244,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)",
@@ -1143,7 +1143,7 @@
     },
     {
       "projectID": 438332,
-      "fileID": 3845673,
+      "fileID": 3862966,
       "required": true,
       "__meta": {
         "name": "SuperMartijn642's Config Lib",
@@ -1160,7 +1160,7 @@
     },
     {
       "projectID": 454372,
-      "fileID": 3773952,
+      "fileID": 3863129,
       "required": true,
       "__meta": {
         "name": "SuperMartijn642's Core Lib",
@@ -1194,7 +1194,7 @@
     },
     {
       "projectID": 474438,
-      "fileID": 3847281,
+      "fileID": 3860015,
       "required": true,
       "__meta": {
         "name": "Origins (Forge)",
@@ -1275,7 +1275,7 @@
     },
     {
       "projectID": 521393,
-      "fileID": 3850609,
+      "fileID": 3861272,
       "required": true,
       "__meta": {
         "name": "REI Plugin Compatibilities",
