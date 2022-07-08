@@ -51,6 +51,22 @@
       }
     },
     {
+      "projectID": 60028,
+      "fileID": 3844973,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2"
+      }
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3578801,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
       "projectID": 69162,
       "fileID": 3838025,
       "required": true,
@@ -161,6 +177,23 @@
       }
     },
     {
+      "projectID": 226410,
+      "fileID": 3722831,
+      "required": true,
+      "__meta": {
+        "name": "ProjectE"
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3862524,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 231095,
       "fileID": 3847877,
       "required": true,
@@ -254,11 +287,36 @@
       }
     },
     {
+      "projectID": 240950,
+      "fileID": 3828445,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Dimensions",
+        "dependencies": [
+          326041,
+          233105
+        ]
+      }
+    },
+    {
       "projectID": 241344,
       "fileID": 3754969,
       "required": true,
       "__meta": {
         "name": "Snad"
+      }
+    },
+    {
+      "projectID": 242195,
+      "fileID": 3830309,
+      "required": true,
+      "__meta": {
+        "name": "Dark Utilities",
+        "dependencies": [
+          396234,
+          393149,
+          228525
+        ]
       }
     },
     {
@@ -316,12 +374,39 @@
       }
     },
     {
+      "projectID": 245755,
+      "fileID": 3830849,
+      "required": true,
+      "__meta": {
+        "name": "Waystones",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 247136,
+      "fileID": 3599525,
+      "required": true,
+      "__meta": {
+        "name": "Just Another Rotten Flesh to Leather Mod"
+      }
+    },
+    {
       "projectID": 247921,
       "fileID": 3833589,
       "required": true,
       "__meta": {
         "name": "ZeroCore 2",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 248020,
+      "fileID": 3842346,
+      "required": true,
+      "__meta": {
+        "name": "Flux Networks"
       }
     },
     {
@@ -417,6 +502,14 @@
       }
     },
     {
+      "projectID": 264353,
+      "fileID": 3578339,
+      "required": true,
+      "__meta": {
+        "name": "SwingThroughGrass"
+      }
+    },
+    {
       "projectID": 271835,
       "fileID": 3837822,
       "required": true,
@@ -450,11 +543,31 @@
       }
     },
     {
+      "projectID": 283644,
+      "fileID": 3845997,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 284324,
       "fileID": 3732908,
       "required": true,
       "__meta": {
         "name": "Emojiful"
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 3717873,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
       }
     },
     {
@@ -489,6 +602,17 @@
       }
     },
     {
+      "projectID": 294815,
+      "fileID": 3741339,
+      "required": true,
+      "__meta": {
+        "name": "AIOT Botania",
+        "dependencies": [
+          225643
+        ]
+      }
+    },
+    {
       "projectID": 296468,
       "fileID": 3692638,
       "required": true,
@@ -511,6 +635,17 @@
       "__meta": {
         "name": "Structurize",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 3717883,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace",
+        "dependencies": [
+          283644
+        ]
       }
     },
     {
@@ -564,12 +699,32 @@
       }
     },
     {
+      "projectID": 307598,
+      "fileID": 3778880,
+      "required": true,
+      "__meta": {
+        "name": "Nether Ores Plus+"
+      }
+    },
+    {
       "projectID": 308989,
       "fileID": 3650485,
       "required": true,
       "__meta": {
         "name": "Caelus API (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 309858,
+      "fileID": 3829081,
+      "required": true,
+      "__meta": {
+        "name": "Forbidden and Arcanus",
+        "dependencies": [
+          416935,
+          416935
+        ]
       }
     },
     {
@@ -591,6 +746,27 @@
           521393,
           348521,
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 310470,
+      "fileID": 3725941,
+      "required": true,
+      "__meta": {
+        "name": "Easy Cake"
+      }
+    },
+    {
+      "projectID": 312353,
+      "fileID": 3771085,
+      "required": true,
+      "__meta": {
+        "name": "Artifacts",
+        "dependencies": [
+          465066,
+          309927,
+          309927
         ]
       }
     },
@@ -688,6 +864,14 @@
       }
     },
     {
+      "projectID": 342929,
+      "fileID": 3793844,
+      "required": true,
+      "__meta": {
+        "name": "Compressium"
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 3782776,
       "required": true,
@@ -713,6 +897,31 @@
         "dependencies": [
           306770
         ]
+      }
+    },
+    {
+      "projectID": 351264,
+      "fileID": 3829616,
+      "required": true,
+      "__meta": {
+        "name": "Kotlin for Forge",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 351748,
+      "fileID": 3725832,
+      "required": true,
+      "__meta": {
+        "name": "Mining Gadgets"
+      }
+    },
+    {
+      "projectID": 361276,
+      "fileID": 3808746,
+      "required": true,
+      "__meta": {
+        "name": "Lootr (Forge)"
       }
     },
     {
@@ -780,6 +989,15 @@
       }
     },
     {
+      "projectID": 393149,
+      "fileID": 3683668,
+      "required": true,
+      "__meta": {
+        "name": "Runelic",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 394535,
       "fileID": 3773710,
       "required": true,
@@ -788,6 +1006,23 @@
         "dependencies": [
           454372
         ]
+      }
+    },
+    {
+      "projectID": 396234,
+      "fileID": 3683674,
+      "required": true,
+      "__meta": {
+        "name": "Pig Pen Cipher",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 399492,
+      "fileID": 3755547,
+      "required": true,
+      "__meta": {
+        "name": "Apple Cows"
       }
     },
     {
@@ -810,6 +1045,14 @@
       }
     },
     {
+      "projectID": 404141,
+      "fileID": 3693175,
+      "required": true,
+      "__meta": {
+        "name": "Drop the Meat"
+      }
+    },
+    {
       "projectID": 406959,
       "fileID": 3837831,
       "required": true,
@@ -818,6 +1061,14 @@
         "dependencies": [
           222880
         ]
+      }
+    },
+    {
+      "projectID": 407174,
+      "fileID": 3759881,
+      "required": true,
+      "__meta": {
+        "name": "Shutup Experimental Settings!"
       }
     },
     {
@@ -837,11 +1088,29 @@
       }
     },
     {
+      "projectID": 416935,
+      "fileID": 3768769,
+      "required": true,
+      "__meta": {
+        "name": "Valhelsia Core",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 419699,
       "fileID": 3843622,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 421850,
+      "fileID": 3779088,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Forge)",
         "explicit": false
       }
     },
@@ -854,6 +1123,14 @@
         "dependencies": [
           618298
         ]
+      }
+    },
+    {
+      "projectID": 426386,
+      "fileID": 3786356,
+      "required": true,
+      "__meta": {
+        "name": "Shrink."
       }
     },
     {
@@ -871,6 +1148,14 @@
       "__meta": {
         "name": "SuperMartijn642's Config Lib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 445626,
+      "fileID": 3737073,
+      "required": true,
+      "__meta": {
+        "name": "Haste Enchantment"
       }
     },
     {
@@ -899,6 +1184,15 @@
       }
     },
     {
+      "projectID": 465066,
+      "fileID": 3678612,
+      "required": true,
+      "__meta": {
+        "name": "ExpandAbility",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 474438,
       "fileID": 3847281,
       "required": true,
@@ -907,6 +1201,14 @@
         "dependencies": [
           308989
         ]
+      }
+    },
+    {
+      "projectID": 474817,
+      "fileID": 3739601,
+      "required": true,
+      "__meta": {
+        "name": "Stalwart Dungeons"
       }
     },
     {
@@ -953,6 +1255,25 @@
       }
     },
     {
+      "projectID": 510089,
+      "fileID": 3777934,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
+      "projectID": 514832,
+      "fileID": 3778885,
+      "required": true,
+      "__meta": {
+        "name": "Wild Bushes"
+      }
+    },
+    {
       "projectID": 521393,
       "fileID": 3850609,
       "required": true,
@@ -967,6 +1288,14 @@
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 522691,
+      "fileID": 3756023,
+      "required": true,
+      "__meta": {
+        "name": "River Treasures"
       }
     },
     {
@@ -997,11 +1326,28 @@
       }
     },
     {
+      "projectID": 531761,
+      "fileID": 3830790,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Forge Edition)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 533748,
       "fileID": 3760145,
       "required": true,
       "__meta": {
         "name": "Chalk"
+      }
+    },
+    {
+      "projectID": 548167,
+      "fileID": 3793455,
+      "required": true,
+      "__meta": {
+        "name": "Awakened Bosses"
       }
     },
     {
@@ -1073,6 +1419,19 @@
       }
     },
     {
+      "projectID": 569849,
+      "fileID": 3850254,
+      "required": true,
+      "__meta": {
+        "name": "Hex Casting",
+        "dependencies": [
+          597824,
+          306770,
+          351264
+        ]
+      }
+    },
+    {
       "projectID": 574123,
       "fileID": 3630075,
       "required": true,
@@ -1086,6 +1445,14 @@
       "required": true,
       "__meta": {
         "name": "Rubidium"
+      }
+    },
+    {
+      "projectID": 579545,
+      "fileID": 3759328,
+      "required": true,
+      "__meta": {
+        "name": "Everything is Copper"
       }
     },
     {
@@ -1111,6 +1478,26 @@
       }
     },
     {
+      "projectID": 597248,
+      "fileID": 3802193,
+      "required": true,
+      "__meta": {
+        "name": "Duckling",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 597824,
+      "fileID": 3831430,
+      "required": true,
+      "__meta": {
+        "name": "PAUCAL",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 618298,
       "fileID": 3847441,
       "required": true,
@@ -1125,6 +1512,17 @@
       "required": true,
       "__meta": {
         "name": "SpammyCombat"
+      }
+    },
+    {
+      "projectID": 628920,
+      "fileID": 3809744,
+      "required": true,
+      "__meta": {
+        "name": "Retro Candles",
+        "dependencies": [
+          597824
+        ]
       }
     }
   ]
